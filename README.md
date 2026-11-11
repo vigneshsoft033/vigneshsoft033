@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Gnanasangari Vigneshwaran 👋
 
-<!--
-**vigneshsoft033/vigneshsoft033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | 5.5+ Years of Experience
 
-Here are some ideas to get you started:
+I'm a Java Full Stack Developer with 5.5+ years of experience building enterprise web applications using Java, Spring Boot, Microservices, Angular, and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+- **Backend:** Java 8, Spring Boot, Spring MVC, Hibernate, JPA
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
+- **Database:** PostgreSQL, MySQL
+- **Architecture:** REST APIs, Microservices
+- **Tools:** Maven, Git, SVN, Postman, Eclipse, VS Code
+- **Servers:** Tomcat, JBoss, WildFly
+
+### 💼 Areas of Experience
+
+- Enterprise Application Development
+- ERP, Inventory Management
+- HRMS, Payroll and Finance Modules
+- REST API Development and Integration
+- Database Design and Optimization
+- Bug Fixing and Application Enhancements
+
+### 🎯 Currently Working On
+
+- Improving Spring Boot and Microservices expertise
+- Building Java Full Stack portfolio projects
+- Exploring scalable backend architecture
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/vigneshsoft033
+- Email: vigneshsoft033@gmail.com
