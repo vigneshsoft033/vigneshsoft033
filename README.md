@@ -1,4 +1,4 @@
-# Hi, I'm Gnanasangari Vigneshwaran 👋
+# Hi, I'm Vigneshwaran Sakthivel👋
 
 ### Java Full Stack Developer | 5.5+ Years of Experience
 
